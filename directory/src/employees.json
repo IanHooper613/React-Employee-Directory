@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "firstName": "Ian",
+        "lastName": "Johnson",
+        "email": "ij@sales.com",
+        "department": "sales"
+    },
+    {
+        "id": 2,
+        "firstName": "Liang",
+        "lastName": "Nguyen",
+        "email": "ln@sales.com",
+        "department": "sales"
+    },
+    {
+        "id": 3,
+        "firstName": "Julia",
+        "lastName": "Daley",
+        "email": "jd@marketing.com",
+        "department": "marketing"
+    },
+    {
+        "id": 4,
+        "firstName": "Karen",
+        "lastName": "Murdoch",
+        "email": "km@marketing.com",
+        "department": "marketing"
+    },
+    {
+        "id": 5,
+        "firstName": "Saleem",
+        "lastName": "Smith",
+        "email": "ss@accounting.com",
+        "department": "accounting"
+    },
+    {
+        "id": 6,
+        "firstName": "Steve",
+        "lastName": "Baldwin",
+        "email": "sb@accounting.com",
+        "department": "accounting"
+    }
+]
