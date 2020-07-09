@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import employees from '../employees.json'
+import Employee from './Employee'
 
 class Container extends Component {
 
@@ -62,6 +63,24 @@ class Container extends Component {
                             placeholder="Filter by Name"
                             />
                         </form>
+                    </div>
+                    <div className='col'>
+                        <button type="submit" onclick={this.sortCategory} className="btn btn-sucess">
+                            Sort by Department
+                        </button>
+                    </div>
+                    <div className='col'>
+                        {this.clearButton}
+                    </div>
+                </div>
+                <div className='row'>
+                    <div className='col'>
+                        <Employee
+                        emp={this.state.employees}
+                        filter={this.state.filter}
+                        isSorted={this.state.isSorted}
+                        shouldSort={this.state.shouldSort}
+                        />
                     </div>
                 </div>
             </div>
