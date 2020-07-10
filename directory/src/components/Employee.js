@@ -11,7 +11,7 @@ const Employee = ({ emp, filter, isSorted, shouldSort }) => {
 
     const compare = (a,b) => {
         const nameA = a.department.toLowerCase()
-        const nameB = a.department.toLowerCase()
+        const nameB = b.department.toLowerCase()
         let comparison = 0
         if (nameA > nameB) {
             comparison = 1
@@ -26,7 +26,7 @@ const Employee = ({ emp, filter, isSorted, shouldSort }) => {
         return (first.indexOf(filter) >= 0 || last.indexOf(filter) >= 0)
     })
     sorted = [...filtered].sort(compare)
-    if(!shouldSort && !isSorted) {
+    if(shouldSort && !isSorted) {
         sorted.reverse()
     }
     arrayToRender = sorted
