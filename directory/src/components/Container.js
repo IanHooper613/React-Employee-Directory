@@ -17,19 +17,20 @@ class Container extends Component {
     componentDidUpdate() {
         this.setReverseSort()
     }
+    // Updating the state and filtering from the text that was entered
     handleInputChange = e => {
         this.setState({
             filter: e.target.value       
         })
     }
-
+    // Resetting the state to the original value
     clearSort = () => {
         this.setState({
             isSorted: false,
             shouldSort: false
         })
     }
-
+    // The clear button re-sets things
     setReverseSort = () => {
         this.clearButton = (<p />)
         if(this.state.shouldSort) {
@@ -40,7 +41,7 @@ class Container extends Component {
             )
         }
     }
-
+    // Changing the state to sort
     sortCategory = e => {
         e.preventDefault()
         this.setState({
