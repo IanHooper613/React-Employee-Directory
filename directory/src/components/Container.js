@@ -34,7 +34,7 @@ class Container extends Component {
         this.clearButton = (<p />)
         if(this.state.shouldSort) {
             this.clearButton = (
-                <button type="submit" onClick={this.clearSort} className="btn-warning">
+                <button type='submit' onClick={this.clearSort} className='btn-warning'>
                     Clear Sort
                 </button>
             )
@@ -44,7 +44,7 @@ class Container extends Component {
     sortCategory = e => {
         e.preventDefault()
         this.setState({
-            isSorted: !this.setState.isSorted,
+            isSorted: !this.state.isSorted,
             shouldSort: true
         })
     }
@@ -65,7 +65,7 @@ class Container extends Component {
                         </form>
                     </div>
                     <div className='col'>
-                        <button type="submit" onclick={this.sortCategory} className="btn btn-sucess">
+                        <button type="submit" onClick={this.sortCategory} className="btn btn-success">
                             Sort by Department
                         </button>
                     </div>
