@@ -3,112 +3,112 @@
         "id": 1,
         "firstName": "Ian",
         "lastName": "Michaels",
-        "email": "ij@company.com",
+        "email": "im@applebook.com",
         "department": "sales"
     },
     {
         "id": 2,
         "firstName": "Liang",
         "lastName": "Nguyen",
-        "email": "ln@company.com",
+        "email": "ln@applebook.com",
         "department": "sales"
     },
     {
         "id": 3,
         "firstName": "Julia",
         "lastName": "Daley",
-        "email": "jd@company.com",
+        "email": "jd@applebook.com",
         "department": "marketing"
     },
     {
         "id": 4,
         "firstName": "Karen",
         "lastName": "Murdoch",
-        "email": "km@company.com",
+        "email": "km@applebook.com",
         "department": "marketing"
     },
     {
         "id": 5,
         "firstName": "Saleem",
         "lastName": "Smith",
-        "email": "ss@company.com",
+        "email": "ss@applebook.com",
         "department": "accounting"
     },
     {
         "id": 6,
         "firstName": "Steve",
         "lastName": "Baldwin",
-        "email": "sb@company.com",
+        "email": "sb@applebook.com",
         "department": "accounting"
     },
     {
         "id": 7,
         "firstName": "Ian",
         "lastName": "Baldwin",
-        "email": "ib@company.com",
+        "email": "ib@applebook.com",
         "department": "sales"
     },
     {
         "id": 8,
         "firstName": "Christopher",
         "lastName": "Jackson",
-        "email": "cj@company.com",
+        "email": "cj@applebook.com",
         "department": "accounting"
     },
     {
         "id": 9,
         "firstName": "Christina",
         "lastName": "Gills",
-        "email": "cg@company.com",
+        "email": "cg@applebook.com",
         "department": "marketing"
     },
     {
         "id": 10,
         "firstName": "Don",
         "lastName": "Jackson",
-        "email": "dj@company.com",
+        "email": "dj@applebook.com",
         "department": "sales"
     },
     {
         "id": 11,
         "firstName": "Ian",
         "lastName": "Smith",
-        "email": "is@company.com",
+        "email": "is@applebook.com",
         "department": "marketing"
     },
     {
         "id": 12,
         "firstName": "Lorna",
         "lastName": "Michaels",
-        "email": "lm@company.com",
+        "email": "lm@applebook.com",
         "department": "accounting"
     },
     {
         "id": 13,
         "firstName": "Jolene",
         "lastName": "Gills",
-        "email": "jg@company.com",
+        "email": "jg@applebook.com",
         "department": "accounting"
     },
     {
         "id": 14,
         "firstName": "Kelly",
         "lastName": "Murdoch",
-        "email": "km@company.com",
+        "email": "km@applebook.com",
         "department": "sales"
     },
     {
         "id": 15,
         "firstName": "Kerry",
         "lastName": "Gills",
-        "email": "kg@company.com",
+        "email": "kg@applebook.com",
         "department": "accounting"
     },
     {
         "id": 16,
         "firstName": "Mary",
         "lastName": "Murdoch",
-        "email": "mm@company.com",
+        "email": "mm@applebook.com",
         "department": "sales"
     }
 ]
