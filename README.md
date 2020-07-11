@@ -34,5 +34,5 @@ As a user, I want to be able to view my entire employee directory at once so tha
 <br>
 
 ## Helpful Links
-* [https://www.reactjs.org]
-* [https://github.com/facebook/react]
+* https://www.reactjs.org
+* https://github.com/facebook/react
