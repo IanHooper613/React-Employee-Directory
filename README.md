@@ -16,7 +16,8 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 ### Filtering employee list by name
 
-![image](https://user-images.githubusercontent.com/60622571/87232886-86a6b280-c390-11ea-8b61-951d4610380b.png)<br> 
+![image](https://user-images.githubusercontent.com/60622571/87232886-86a6b280-c390-11ea-8b61-951d4610380b.png)<br>
+<br> 
 
 
 ### Sorting employee list by department
@@ -31,6 +32,7 @@ As a user, I want to be able to view my entire employee directory at once so tha
 * HTML
 * CSS
 * Bootstrap
+<br>
 <br>
 
 ## Helpful Links
