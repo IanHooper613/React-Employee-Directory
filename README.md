@@ -22,3 +22,17 @@ As a user, I want to be able to view my entire employee directory at once so tha
 ### Sorting employee list by department
 
 ![image](https://user-images.githubusercontent.com/60622571/87232897-9920ec00-c390-11ea-834f-a91573c7bfc0.png)
+<br>
+
+## Technologies Used
+* React
+* JavaScript
+* NodeJS
+* HTML
+* CSS
+* Bootstrap
+<br>
+
+## Helpful Links
+* [https://www.reactjs.org]
+* [https://github.com/facebook/react]
