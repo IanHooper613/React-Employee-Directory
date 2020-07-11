@@ -1,8 +1,8 @@
 # React-Employee-Directory
 
 This React Employee Directory allows any manager to be able to easily view and sort non-sensitive data about employees.  
-<br
->
+<br>
+
 ## User Story
 
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.  
@@ -12,8 +12,7 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 ### Listing of all company employees
 
-![image](https://user-images.githubusercontent.com/60622571/87232863-57904100-c390-11ea-94e6-ee1e3c532545.png 
-<br>
+![image](https://user-images.githubusercontent.com/60622571/87232863-57904100-c390-11ea-94e6-ee1e3c532545.png)<br>
 
 ### Filtering employee list by name
 
