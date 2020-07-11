@@ -1,3 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/ianhooper613?label=Follow&style=social)
+<br>
+
 # React-Employee-Directory
 
 This React Employee Directory allows any manager to be able to easily view and sort non-sensitive data about employees.  
