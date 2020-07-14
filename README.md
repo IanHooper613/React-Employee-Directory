@@ -11,6 +11,10 @@ This React Employee Directory allows any manager to be able to easily view and s
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.  
 <br>
 
+## Live Link to Application
+* [Employee Directory](https://ianhooper613.github.io/React-Employee-Directory/)
+<br>
+
 ## Screenshots
 
 ### Listing of all company employees
